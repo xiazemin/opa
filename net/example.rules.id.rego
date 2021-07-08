@@ -1,0 +1,6 @@
+package example.rules.id
+
+public_network[net.id] {      # net.id is in the public_network set if...
+    net := input.networks[_]  # some network exists and...
+    net.public                # it is public.
+}

@@ -1,0 +1,8 @@
+{
+    "alice": [
+        "read", "write"
+    ],
+    "bob": [
+        "read"
+    ]
+}

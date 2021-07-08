@@ -1,0 +1,1 @@
+opa test -v authz.rego authz_test.rego

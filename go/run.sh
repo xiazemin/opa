@@ -1,0 +1,1 @@
+go run main.go example.rego 'data.example.violation' < input.servers.json
